@@ -1,0 +1,17 @@
+{
+  "name": "brutal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dom-parser": "^0.1.5",
+    "line-by-line": "^0.1.6",
+    "qs": "^6.5.1"
+  }
+}
