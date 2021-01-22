@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dom-parser": "^0.1.5",
     "line-by-line": "^0.1.6",
     "qs": "^6.5.1"
